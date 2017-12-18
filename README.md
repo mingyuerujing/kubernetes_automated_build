@@ -1,0 +1,2 @@
+# kubernetes_automated_build
+k8s镜像同步gci镜像
